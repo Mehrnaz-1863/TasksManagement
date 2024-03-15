@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TasksManagement</string>
+    <string name="taskmanagement">TaskManagement</string>
+    <string name="manage_your_task_easily">manage your task easily</string>
+    <string name="manage_task" />
+    <string name="true_works" />
+    <string name="false_works" />
+    <string name="todo" />
+    <string name="entertask">اضافه کردن وظیفه</string>
+</resources>
